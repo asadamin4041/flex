@@ -1,0 +1,83 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 0 20px 30px 0;
+}
+.container1{
+    display: flex;
+}
+.item1{
+    width: 300%;
+    height: 110px;
+    background-color: aqua;
+    border: 2px solid rgb(255, 254, 253);
+    text-align: left;
+    font-size: 20px;
+    color: brown;
+    font-weight: bold;
+}
+.container2{
+    display: flex;
+}
+.item2{
+    width: 33.3%;
+    height: 30px;
+    background-color: aqua;
+    border: 2px solid rgb(255, 254, 253);
+    text-align: left;
+    font-size: 20px;
+    color: brown;
+    font-weight: bold;
+}
+.container3{
+    display: flex;
+}
+.item3{
+    width: 33.3%;
+    height: 30px;
+    background-color: aqua;
+    border: 2px solid rgb(255, 254, 253);
+    text-align: left;
+    font-size: 20px;
+    color: brown;
+    font-weight: bold;
+}
+.container4 {
+    display: flex;
+}
+.item4{
+    width: 50%;
+    height: 25px;
+    background-color: rgb(255, 0, 242);
+    border: 2px solid aqua;
+    text-align: left;
+    font-size: 20px;
+    color: aqua;
+    font-weight: bold;
+}
+.container5 {
+    display: flex;
+}
+.item5{
+    width: 50%;
+    height: 25px;
+    background-color: rgb(255, 0, 242);
+    border: 2px solid aqua;
+    text-align: left;
+    font-size: 20px;
+    color: aqua;
+    font-weight: bold;
+}
+.container6 {
+    display: flex;
+}
+.item6{
+    width: 50%;
+    height: 25px;
+    background-color: rgb(255, 0, 242);
+    border: 2px solid aqua;
+    text-align: left;
+    font-size: 20px;
+    color: aqua;
+    font-weight: bold;
+}
